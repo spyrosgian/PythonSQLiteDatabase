@@ -12,7 +12,7 @@ The program provides a means for the admin of the company to enter the following
 ● Salary
 </pre>
 
-The admin should be able to create an employee table that has the above fields. When the table is
+The admin is able to create an employee table that has the above fields. When the table is
 created, the program should display a warning message on the screen “This table is already created”.
 Then the admin should be able to insert employee data, search and show all data into a database on the
 screen. Additionally, if they want to amend some records, they should be able to do it on this program.
